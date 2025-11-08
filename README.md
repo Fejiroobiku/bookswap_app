@@ -1,4 +1,4 @@
-# eventease_final
+# Bookswap app
 
 A new Flutter project.
 
